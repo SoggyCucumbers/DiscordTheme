@@ -2,7 +2,7 @@
 
 {} /* Background */
 .app {
-    background-image: url("http://imgur.com/a/8EXP1.jpg");
+    background-image: url("http://i.imgur.com/Ia9rMtB.jpg");
     background-size: cover !important;
     background-position: center;
 }
